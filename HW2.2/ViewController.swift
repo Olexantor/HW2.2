@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         colorOfSliderTwo.text = "Green:"
         colorOfSliderTwo.textColor = .white
         
-        colorOfSliderThree.text = "Blue"
+        colorOfSliderThree.text = "Blue:"
         colorOfSliderThree.textColor = .white
         
         // MARK: Dynamic labels
